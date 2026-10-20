@@ -1,3 +1,16 @@
+:root{
+    --cor-fundo: #eeece6;
+    --cor-texto: #13f10b73;
+    --cor-principal: #c608f5;
+    --cor-secundaria: #3955af;
+    --cor-hover: #bd117b;
+    --superficie: #070707;
+    --cor-card: #ffef10;
+    --cor-legenda: #ff0b0b;
+    --cor-clara: #10f8ed;
+    --cor-rodape: #b904f088;
+}
+
 body {
        background-color: blueviolet;
        color: #222222;
